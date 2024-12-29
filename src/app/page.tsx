@@ -1,3 +1,4 @@
+"use client";
 import { Navbar } from "@/sections/Header"
 import { Hero } from "@/sections/Hero"
 import { LogoTicker } from "@/sections/LogoTicker"
